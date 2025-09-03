@@ -1,0 +1,19 @@
+# Vivado generated files
+/sc7xx/sc7xx.cache/
+/sc7xx/sc7xx.gen/
+/sc7xx/sc7xx.hw/
+/sc7xx/sc7xx.ip_user_files/
+/sc7xx/sc7xx.runs/
+/sc7xx/sc7xx.sim/
+/sc7xx/vivado.jou
+/sc7xx/vivado.log
+/sc7xx/webtalk*.xml
+/sc7xx/webtalk*.jou
+/sc7xx/webtalk*.log
+/sc7xx/sc7xx.xpr
+/sc7xx/archive_project_summary.txt
+
+# Bitstream and other hardware definition files
+*.bit
+*.bin
+*.dcp
